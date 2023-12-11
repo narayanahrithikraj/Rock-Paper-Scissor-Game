@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor-Game---Using-JS
+# Rock-Paper-Scissor-Game
